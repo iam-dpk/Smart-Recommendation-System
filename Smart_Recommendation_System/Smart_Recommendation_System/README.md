@@ -1,6 +1,6 @@
 # Smart Recommendation System
 
-A portfolio-ready AI recommendation system built with Python, scikit-learn, and Streamlit.
+A portfolio-ready AI recommendation system built with Python, scikit-learn, and Streamlit..
 
 ## Features
 - Content-based recommendations using TF-IDF + cosine similarity
