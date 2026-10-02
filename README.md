@@ -44,7 +44,7 @@ A machine-learning-based recommendation system built with Python, Pandas, Scikit
 
 
 
-# ✨ Features
+# ✨ Features - 
 
 🎯 Personalized recommendations
 
@@ -63,7 +63,7 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 
 
-# 🚀 Run
+# 🚀 Run - 
 
 pip install -r requirements.txt
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 
 
-# 👨‍💻 Purpose
+# 👨‍💻 Purpose - 
 
 
 A portfolio project demonstrating Machine Learning, recommendation algorithms, data processing, and web application development.
@@ -79,7 +79,7 @@ A portfolio project demonstrating Machine Learning, recommendation algorithms, d
 
 
 
-# 🎯 Project Goal
+# 🎯 Project Goal - 
 
 
 This project demonstrates practical knowledge of Machine Learning, recommendation algorithms, data processing, Python programming, and Streamlit web development.
